@@ -1,0 +1,22 @@
+{
+  "esp": {
+    "box_visibility": 1.0,
+    "line_thickness": 2,
+    "range_detection": 200,
+    "color_intensity": 0.8
+  },
+  "aimbot": {
+    "sensitivity": 1.0,
+    "fov_size": 90,
+    "smoothness_level": 5
+  },
+  "movement": {
+    "speed_multiplier": 2.0,
+    "flight_vertical_speed": 10,
+    "jump_boost": 2.0
+  },
+  "aim": {
+    "precision_level": 7,
+    "reaction_time": 0.2
+  }
+}
